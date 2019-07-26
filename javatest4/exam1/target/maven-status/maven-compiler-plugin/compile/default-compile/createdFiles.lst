@@ -1,0 +1,8 @@
+bai\dockertest\dao\UserMapper.class
+bai\dockertest\DockertestApplication.class
+bai\dockertest\ResponseResult.class
+bai\dockertest\service\UserServiceImpl.class
+bai\dockertest\model\Hobby.class
+bai\dockertest\model\User.class
+bai\dockertest\controller\UserController.class
+bai\dockertest\service\IUserService.class
